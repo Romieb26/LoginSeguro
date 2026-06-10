@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662529612524",
+    "project_id": "loginseguro-690ee",
+    "storage_bucket": "loginseguro-690ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662529612524:android:94144b032cc83714c0a3c9",
+        "android_client_info": {
+          "package_name": "com.example.login_seguro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5CPjjgXJHomBm0NvU-N3lIUEUut0Xg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
