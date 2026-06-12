@@ -11,7 +11,6 @@ Future<void> main() async {
 
   await Firebase.initializeApp();
 
-  // Listener global para pruebas
   FirebaseMessaging.onMessage.listen(
         (RemoteMessage message) {
       print("🔥🔥🔥 MENSAJE GLOBAL RECIBIDO 🔥🔥🔥");
